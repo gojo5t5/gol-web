@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+}
+html,
+body {
+  background: black;
+  height: 150%;
+  width: 125%;
+}
